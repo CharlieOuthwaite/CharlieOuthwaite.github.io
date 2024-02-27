@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
+## A little about me!
+
 Hello!
 
 I am a Postdoc based at the Centre for Biodiversity and Environment Research at UCL.  I am currently working on the NERC funded [GLiTRS](https://glitrs.ceh.ac.uk/)(GLobal Threat-Response Synthesis) project which aims to determine a global assessment of insect responses to anthropogenic drivers of change. I am also a lecturer in the new People and Nature Lab based at UCL East.
 
-## Previous projects ##
+## Previous projects
 
 **PostDoc: The BIOTA project: Biodiversity, Interactions and Trade-Offs with Agriculture.**
 Revealing the interactions between global biodiversity change and human food security.
